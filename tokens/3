@@ -1,25 +1,25 @@
 {
     "id": 3,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
+    "image": "https://richard-thebornless.github.io/demo-collection-metadata/tokens/CorvusPoster.webp",
     "token_id": "3",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
+    "name": "Test zkEVM NFT #3",
+    "description": "Bornless NFT - minted on Immutable zkEVM",
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "Type",
+        "value": "Gun"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
+        "trait_type": "Quality",
+        "value": "Rusty"
       },
       {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
+        "trait_type": "Minted",
+        "value": true
       }
     ]
   }
